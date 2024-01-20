@@ -3,3 +3,4 @@ This repo is all of the work from the Advanced Data Analytics course from Google
 These topics range from basic Data cleaning to building complex Machine Learning models.
 
 The Case study files are uploaded in their original Jupyter Notebook formats for cleaner aesthetic and the Completed Notebooks folder of assignments are uploaded in PDF for more emphasis on the code itself for future refrencing or replication.
+The Capstone project is all in one notebook from EDA to a completed prediction model, a 2 page summary in pamphlet format is also included as PNG images. 
